@@ -1,0 +1,25 @@
+{
+  "project_info": {
+    "project_number": "123123123123",
+    "firebase_url": "https://my-test-project.firebaseio.com",
+    "project_id": "my-test-project",
+    "storage_bucket": "my-test-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35775074661:android:bda3aad6830ebc96c4d18c",
+        "mobilesdk_app_id": "1:32423423423:android:830ebc96c4d18c23423423",
+        "android_client_info": {
+          "package_name": "com.google.firebase.firestore.myapplication"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXbFmlXI6LICmzAbYQqEITNfbehiDxX4A"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
